@@ -1,0 +1,31 @@
+# TrustClaw - Solana Alpha Hunter
+# Core
+python-telegram-bot==21.9
+httpx==0.28.1
+aiohttp==3.11.12
+asyncio-mqtt==0.16.2
+
+# Solana
+solders==0.25.0
+solana==0.36.6
+
+# AI / LLM
+openai==1.63.2
+groq==0.15.0
+
+# Data
+pandas==2.2.3
+numpy==2.2.3
+
+# Scheduling
+apscheduler==3.10.4
+
+# Utils
+python-dotenv==1.0.1
+loguru==0.7.3
+tenacity==9.0.0
+beautifulsoup4==4.12.3
+fake-useragent==2.0.3
+
+# Web scraping
+playwright==1.50.0
